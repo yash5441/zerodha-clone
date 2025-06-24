@@ -1,7 +1,7 @@
 import React from 'react';
 function Awards() {
     return (  
-       <h1>awards</h1>
+       <h1>Awards</h1>
     );
 }
 

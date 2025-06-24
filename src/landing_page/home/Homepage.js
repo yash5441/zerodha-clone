@@ -16,9 +16,8 @@ function Homepage() {
             <Stats />
             <Pricing />
             <Education />
-            <Footer />
             <Openaccount />
-
+            <Footer />
 
         </>
      );

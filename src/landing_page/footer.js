@@ -5,4 +5,4 @@ function Footer() {
      );
 }
 
-export default Footerooter;
+export default Footer;
