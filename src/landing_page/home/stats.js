@@ -19,7 +19,7 @@ function Stats() {
                     <img src='/images/ecosystem.png' style={{width:"90%"}} />
                     <div>
                         <a href='' className='mx-5' style={{textDecoration:"none"}}>Explore our products<i className="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-                        <a href=''>TRY KITE DEMO<i className="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+                        <a href='' className='mx-5' style={{textDecoration:"none"}}>TRY KITE DEMO<i className="fa fa-long-arrow-right" aria-hidden="true"></i></a>
                     </div>
                 </div>
             </div>   
