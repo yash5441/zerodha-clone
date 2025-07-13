@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import {browserRouter, Routes, Route, BrowserRouter} from "react-router-dom"
+import {BrowserRouter, Routes, Route} from "react-router-dom"
 import './index.css';
 import Homepage from './landing_page/home/Homepage';
 import Signup from './landing_page/signup/Signup';
@@ -15,9 +15,9 @@ root.render(
   <Topnav />
     <Routes>
       <Route path="/" element={<Homepage />}></Route>
-      <Route path="/signup" element={<Signup />}></Route>
-      <Route path="/about" element={<Aboutpage />}></Route>
-      <Route path="/product" element={<Productpage />}></Route>
+      <Route path="/Signup" element={<Signup />}></Route>
+      <Route path="/About" element={<Aboutpage />}></Route>
+      <Route path="/Product" element={<Productpage />}></Route>
       <Route path="/Pricing" element={<Pricing />}></Route>
       <Route path="/Supportpage" element={<Supportpage />}></Route>
     </Routes>
