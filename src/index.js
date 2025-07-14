@@ -9,6 +9,7 @@ import Productpage from './landing_page/products/Hero';
 import Pricing from './landing_page/pricing/Pricingpage';
 import Supportpage from './landing_page/support/Supportpage';
 import Topnav from './landing_page/Topnav';
+import Footer from './landing_page/Footer';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <BrowserRouter>

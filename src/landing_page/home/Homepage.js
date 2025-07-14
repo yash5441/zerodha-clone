@@ -10,14 +10,14 @@ import Openaccount from '../Openaccount';
 function Homepage() {
     return ( 
         <>
-            <Topnav />
+            
             <Hero />
             <Awards />
             <Stats />
             <Pricing />
             <Education />
             <Openaccount />
-            <Footer />
+            
 
         </>
      );
