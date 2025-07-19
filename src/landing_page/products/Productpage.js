@@ -1,7 +1,17 @@
 import React from 'react';
+import Hero from './Hero';
+import Universe from './Universe';
+import Leftsection from './Leftsection';
+import Rightsection from './Rightsection';
 function Productpage() {
   return (
-    <h1>Productpage</h1>
+    <>
+      <Hero />
+      <Universe />
+      <Leftsection />
+      <Rightsection />
+      
+    </>
   )
 }
 export default Productpage;
