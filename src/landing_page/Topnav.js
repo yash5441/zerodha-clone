@@ -13,19 +13,19 @@ function Topnav() {
                     <form className="d-flex" role="search">
                         <ul className="navbar-nav me-auto mb-2 mb-lg-0">
                         <li className="nav-item">
-                            <Link className="nav-link active" aria-current="page" to="/Signup">Signup</Link>
+                            <Link className="nav-link active" aria-current="page" to="/signup">Signup</Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link active" to="/About">About</Link>
+                            <Link className="nav-link active" to="/about">About</Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link active" to="/Productpage">Products</Link>
+                            <Link className="nav-link active" to="/products">Products</Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link active" to="/Pricingpage">Pricing</Link>
+                            <Link className="nav-link active" to="/pricing">Pricing</Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link active" to="/Supportpage">Support</Link>
+                            <Link className="nav-link active" to="/support">Support</Link>
                         </li>
                         
                        
