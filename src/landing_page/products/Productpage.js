@@ -1,7 +1,7 @@
 import React from 'react';
 function Productpage() {
   return (
-    <div>Productpage</div>
+    <h1>Productpage</h1>
   )
 }
 export default Productpage;
