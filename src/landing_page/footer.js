@@ -11,43 +11,43 @@ function Footer() {
                     </div>
                     <div className='col'>
                         <p>Company</p>
-                            <a href=''>About</a>
+                            <a href='' className='text-muted' style={{textDecoration:"none"}}>About</a>
                             <br />
-                            <a href=''>Products</a>
+                            <a href=''className='text-muted' style={{textDecoration:"none"}}>Products</a>
                             <br />
-                            <a href=''>Pricing</a>
+                            <a href=''className='text-muted' style={{textDecoration:"none"}}>Pricing</a>
                             <br />
-                            <a href=''>Referral</a>
+                            <a href=''className='text-muted' style={{textDecoration:"none"}}>Referral</a>
                             <br />
-                            <a href=''>careers</a>
+                            <a href='' className='text-muted' style={{textDecoration:"none"}}>careers</a>
                             <br />
-                            <a href=''>Zerodha.tech</a>
+                            <a href=''className='text-muted' style={{textDecoration:"none"}}>Zerodha.tech</a>
                             <br />
-                            <a href=''>Press and Media</a>
+                            <a href=''className='text-muted' style={{textDecoration:"none"}}>Press and Media</a>
                             <br />
-                            <a href=''>Zerodha cares (CSR)</a>
+                            <a href=''className='text-muted' style={{textDecoration:"none"}}>Zerodha cares (CSR)</a>
 
                     </div>
                     <div className='col'>
                         <p>Support</p>
-                            <a href=''>Contact</a>
+                            <a href=''className='text-muted' style={{textDecoration:"none"}}>Contact</a>
                             <br />
-                            <a href=''>Support portal</a>
+                            <a href=''className='text-muted'style={{textDecoration:"none"}}>Support portal</a>
                             <br />
-                            <a href=''>Z-connect blog</a>
+                            <a href=''className='text-muted'style={{textDecoration:"none"}}>Z-connect blog</a>
                             <br />
-                            <a href=''>List of Changes</a>
+                            <a href=''className='text-muted' style={{textDecoration:"none"}}>List of Changes</a>
                             <br />
-                            <a href=''>Downloads and Resources</a>
+                            <a href=''className='text-muted'style={{textDecoration:"none"}}>Downloads and Resources</a>
                             <br />
                     </div>
                     <div className='col'>
                         <p>Account</p>
-                            <a href=''>Open an Account</a>
+                            <a href=''className='text-muted' style={{textDecoration:"none"}}>Open an Account</a>
                             <br />
-                            <a href=''>Fund Transfer</a>    
+                            <a href=''className='text-muted' style={{textDecoration:"none"}}>Fund Transfer</a>    
                             <br />
-                            <a href=''>60 Day challenge</a>
+                            <a href=''className='text-muted' style={{textDecoration:"none"}}>60 Day challenge</a>
                             
                     </div>
                 </div>\

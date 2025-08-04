@@ -6,7 +6,7 @@ import Homepage from './landing_page/home/Homepage';
 import Signup from './landing_page/signup/Signup';
 import Aboutpage from './landing_page/about/Aboutpage';
 import Productpage from './landing_page/products/Productpage';
-import Pricing from './landing_page/pricing/Pricingpage';
+import Pricing from './landing_page/pricing/Pricing';
 import Supportpage from './landing_page/support/Supportpage';
 import Topnav from './landing_page/Topnav';
 import Footer from './landing_page/Footer';
