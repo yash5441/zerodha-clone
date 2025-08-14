@@ -1,0 +1,26 @@
+import React from 'react';
+import './index.css'; // Import the CSS file for styling
+
+function Universe() {
+  return (
+    <div className="universe-section">
+      <h2>The Zerodha Universe</h2>
+      <div className="products-grid">
+        <div className="product-item card hover-card">
+          <h3>Varsity</h3>
+          <p className="text-muted">Free and open financial education</p>
+        </div>
+        <div className="product-item card hover-card">
+          <h3>Trading Q&A</h3>
+          <p className="text-muted">Community platform for traders</p>
+        </div>
+        <div className="product-item card hover-card">
+          <h3>Broking API</h3>
+          <p className="text-muted">Build trading platforms</p>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+export default Universe;
